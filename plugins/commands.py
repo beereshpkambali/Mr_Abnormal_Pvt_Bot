@@ -20,7 +20,7 @@ BATCH_FILES = {}
 
 @Client.on_message(filters.command("start"))
 async def start(client, message):
-    if message.chat.type in ['group', 'supergroup']:
+    if message.chat.type in ['group', 'supergroup', 'pm']:
         buttons = [
             [
                 InlineKeyboardButton('𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃', url=f"https://t.me/New_movies_download12")
