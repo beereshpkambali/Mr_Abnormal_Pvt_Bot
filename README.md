@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://telegra.ph/file/499592611e0e1b21793cd.jpg" alt="Ajax-Extra-FeaturesLogo">
+  <img src="https://telegra.ph/file/499592611e0e1b21793cd.jpg" alt="bpk2-extra-features-Logo">
 </p>
 <h1 align="center">
   <b>𝐌𝐫|| 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥 𝐏𝐑𝐎 𝐁𝐎𝐓</b>
 </h1>
 
-<a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
+<a href="https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
 
 
-[![Stars](https://img.shields.io/github/stars/Aadhi000/Ajax-Extra-Features?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features/stargazers)
-[![Forks](https://img.shields.io/github/forks/Aadhi000/Ajax-Extra-Features?style=flat-square&color=blue)](https://github.com/Aadhi000/Ajax-Extra-Features/fork)
-[![Size](https://img.shields.io/github/repo-size/Aadhi000/Ajax-Extra-Features?style=flat-square&color=red)](https://github.com/Aadhi000/Ajax-Extra-Features)   
-[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Aadhi000/Ajax-Extra-Features)   
-[![Contributors](https://img.shields.io/github/contributors/Aadhi000/Ajax-Extra-Features?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/bpk2-extra-features-?style=flat-square&color=orange)](https://github.com/Aadhi000/Ajax-Extra-Features/stargazers)
+[![Forks](https://img.shields.io/github/forks/bpk2-extra-features-?style=flat-square&color=white)](https://github.com/Aadhi000/Ajax-Extra-Features/fork)
+[![Size](https://img.shields.io/github/repo-size/bpk2-extra-features-?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax-Extra-Features)   
+[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/bpk2-extra-features-)   
+[![Contributors](https://img.shields.io/github/contributors/Aadhi000/bpk2-extra-features-?style=flat-square&color=green)](https://github.com/bpk2-extra-features-/graphs/contributors)
 ## Features
 
 - [x] Auto Filter
@@ -65,7 +65,7 @@ You can deploy this bot anywhere.
 </a>
 </p>
 
-<a href="https://youtu.be/kB9TkCs8cX0">
+<a href="https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 
@@ -111,5 +111,5 @@ python3 bot.py
 * /broadcast - to broadcast a message to all 𝐌𝐫|| 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥 𝐏𝐑𝐎 𝐁𝐎𝐓 users
 ```
 
-<b>𝐌𝐫|| 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥 ›› [𝐌𝐫|| 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥 𝐏𝐑𝐎 𝐁𝐎𝐓](https://telegram.dog/I_am_Mr_Abnormal) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/ranibennur_fighting_sheep.xr/) | [ɢɪᴛʜᴜʙ](GitHub.com/beereshpkambali)</b>                                                                                                                                                                                    
+<b>Owner ›› [𝐌𝐫|| 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥 𝐏𝐑𝐎 𝐁𝐎𝐓](https://telegram.dog/I_am_Mr_Abnormal) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/ranibennur_fighting_sheep.xr/) | [ɢɪᴛʜᴜʙ](GitHub.com/beereshpkambali)</b>                                                                                                                                                                                    
 <b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/New_movies_download12)</b>
