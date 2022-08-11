@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
 
 
-[![Stars](https://img.shields.io/github/stars/beereshpkambali/bpk2-extra-features-?style=flat-square&color=deep-saffron-white)](https://github.com/beereshpkambali/bpk2-extra-features-/stargazers)
+[![Stars](https://img.shields.io/github/stars/beereshpkambali/bpk2-extra-features-?style=flat-square&color=kesari)](https://github.com/beereshpkambali/bpk2-extra-features-/stargazers)
 [![Forks](https://img.shields.io/github/forks/beereshpkambali/bpk2-extra-features-?style=flat-square&color=white)](https://github.com/beereshpkambali/bpk2-extra-features-/fork)
 [![Size](https://img.shields.io/github/repo-size/beereshpkambali/bpk2-extra-features-?style=flat-square&color=deep-green)](https://github.com/beereshpkambali/bpk2-extra-features-)   
 [![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/beereshpkambali/bpk2-extra-features-)   
