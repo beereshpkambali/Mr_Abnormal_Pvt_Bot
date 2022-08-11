@@ -111,5 +111,5 @@ python3 bot.py
 * /broadcast - to broadcast a message to all 𝐌𝐫|| 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥 𝐏𝐑𝐎 𝐁𝐎𝐓 users
 ```
 
-<b>𝐌𝐫|| 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥 ›› [ᴀᴀᴅʜɪ](https://telegram.dog/I_am_Mr_Abnormal) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/ranibennur_fighting_sheep.xr/) | [ɢɪᴛʜᴜʙ](GitHub.com/beereshpkambali)</b>                                                                                                                                                                                    
+<b>𝐌𝐫|| 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥 ›› [𝐌𝐫|| 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥 𝐏𝐑𝐎 𝐁𝐎𝐓](https://telegram.dog/I_am_Mr_Abnormal) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/ranibennur_fighting_sheep.xr/) | [ɢɪᴛʜᴜʙ](GitHub.com/beereshpkambali)</b>                                                                                                                                                                                    
 <b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/New_movies_download12)</b>
