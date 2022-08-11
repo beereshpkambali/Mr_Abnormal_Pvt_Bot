@@ -771,11 +771,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             text="▣▣▣▢▢"
         )
         await asyncio.sleep(0.3)
-        reply3 = await reply4.edit_text(
+        reply5 = await reply4.edit_text(
             text="▣▣▣▣▢"
         )
         await asyncio.sleep(0.3)
-        reply3 = await reply5.edit_text(
+        reply6 = await reply5.edit_text(
             text="▣▣▣▣▣"
         )
         await reply6.delete()
