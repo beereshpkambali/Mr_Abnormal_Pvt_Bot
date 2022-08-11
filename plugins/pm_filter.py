@@ -473,7 +473,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     caption=f_caption,
                     protect_content=True if ident == "filep" else False 
                 )
-                await query.answer('Check PM, I have sent files in pm', show_alert=True)
+                await query.answer('Check PM, I have sent files in pm. (ನಿನ್ನ ವೈಯಕ್ತಿಕ ಖಾತೆಗೆ ಮೂವಿಯನ್ನು ಕಳುಹಿಸಿದ್ದೇನೆ, ನೋಡಿ)', show_alert=True)
         except UserIsBlocked:
             await query.answer('You Are Blocked to use me', show_alert=True)
         except PeerIdInvalid:
@@ -869,7 +869,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝚈𝚃-𝚃𝙷𝚄𝙼𝙱', callback_data='ytthumb'),
             InlineKeyboardButton('𝚂𝚃𝙸𝙲𝙺𝙴𝚁-𝙸𝙳', callback_data='sticker')
             ],[
-            InlineKeyboardButton('𝙲𝙾𝚅𝙸𝙳', callback_data='corona'),
             InlineKeyboardButton('𝙰𝚄𝙳𝙸𝙾-𝙱𝙾𝙾𝙺', callback_data='abook'),
             InlineKeyboardButton('𝚄𝚁𝙻-𝚂𝙷𝙾𝚁𝚃', callback_data='urlshort')
             ],[
