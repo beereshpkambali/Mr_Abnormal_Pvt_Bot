@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="6020632521164828265_121.png" alt="Ajax-Extra-FeaturesLogo">
+  <img src="https://telegra.ph/file/499592611e0e1b21793cd.jpg" alt="Ajax-Extra-FeaturesLogo">
 </p>
 <h1 align="center">
   <b>𝐌𝐫|| 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥 𝐏𝐑𝐎 𝐁𝐎𝐓</b>
