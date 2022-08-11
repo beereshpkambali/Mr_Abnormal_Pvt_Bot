@@ -112,4 +112,4 @@ python3 bot.py
 ```
 
 <b>Owner ›› [𝐌𝐫|| 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥 𝐏𝐑𝐎 𝐁𝐎𝐓](https://telegram.dog/I_am_Mr_Abnormal) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/ranibennur_fighting_sheep.xr/) | [ɢɪᴛʜᴜʙ](GitHub.com/beereshpkambali)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/New_movies_download12)</b>
+<b>ᴄʜᴀɴɴᴇʟ ›› [𝐓𝐆 ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/New_movies_download12)</b>
