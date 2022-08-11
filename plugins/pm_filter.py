@@ -755,6 +755,30 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA')
         ]]
+        reply1 = await query.message.reply_text(
+            text="▢▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply2 = await reply1.edit_text(
+            text="▣▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply2.edit_text(
+            text="▣▣▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply4 = await reply3.edit_text(
+            text="▣▣▣▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply4.edit_text(
+            text="▣▣▣▣▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply5.edit_text(
+            text="▣▣▣▣▣"
+        )
+        await reply6.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.START_TXT.format(query.from_user.mention, temp.U_NAME, temp.B_NAME),
@@ -785,6 +809,30 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton(text="𝖢𝗅𝗈𝗌𝖾", callback_data="close_data")
         ]]
+        reply1 = await query.message.reply_text(
+            text="▢▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply2 = await reply1.edit_text(
+            text="▣▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply2.edit_text(
+            text="▣▣▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply4 = await reply3.edit_text(
+            text="▣▣▣▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply4.edit_text(
+            text="▣▣▣▣▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply5.edit_text(
+            text="▣▣▣▣▣"
+        )
+        await reply6.delete()
         reply_markup = InlineKeyboardMarkup(buttons)        
         await query.message.edit_text(        
             text="Select your required mode from below!",
@@ -833,6 +881,30 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('⚚ 𝙱𝙰𝙲𝙺 ⚚', callback_data='start')
         ]]
+        reply1 = await query.message.reply_text(
+            text="▢▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply2 = await reply1.edit_text(
+            text="▣▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply2.edit_text(
+            text="▣▣▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply4 = await reply3.edit_text(
+            text="▣▣▣▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply4.edit_text(
+            text="▣▣▣▣▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply5.edit_text(
+            text="▣▣▣▣▣"
+        )
+        await reply6.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.HELP_TXT.format(query.from_user.mention),
@@ -881,6 +953,30 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('⚚ 𝙱𝙰𝙲𝙺 ⚚', callback_data='start')
         ]]
+        reply1 = await query.message.reply_text(
+            text="▢▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply2 = await reply1.edit_text(
+            text="▣▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply2.edit_text(
+            text="▣▣▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply4 = await reply3.edit_text(
+            text="▣▣▣▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply4.edit_text(
+            text="▣▣▣▣▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply5.edit_text(
+            text="▣▣▣▣▣"
+        )
+        await reply6.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.answer("𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝗆𝗒 𝖧𝖾𝗅𝗉 𝗆𝗈𝖽𝗎𝗅𝖾")
         await query.message.edit_text(
@@ -895,6 +991,30 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
             InlineKeyboardButton('🔐 𝙲𝙻𝙾𝚂𝙴 🔐', callback_data='close_data')
         ]]
+        reply1 = await query.message.reply_text(
+            text="▢▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply2 = await reply1.edit_text(
+            text="▣▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply2.edit_text(
+            text="▣▣▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply4 = await reply3.edit_text(
+            text="▣▣▣▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply4.edit_text(
+            text="▣▣▣▣▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply5.edit_text(
+            text="▣▣▣▣▣"
+        )
+        await reply6.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.ABOUT_TXT.format(temp.B_NAME),
@@ -905,6 +1025,30 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='help')
         ]]
+        reply1 = await query.message.reply_text(
+            text="▢▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply2 = await reply1.edit_text(
+            text="▣▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply2.edit_text(
+            text="▣▣▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply4 = await reply3.edit_text(
+            text="▣▣▣▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply4.edit_text(
+            text="▣▣▣▣▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply5.edit_text(
+            text="▣▣▣▣▣"
+        )
+        await reply6.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.RESTRIC_TXT,
@@ -916,6 +1060,30 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons= [[
             InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='help')
         ]]
+        reply1 = await query.message.reply_text(
+            text="▢▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply2 = await reply1.edit_text(
+            text="▣▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply2.edit_text(
+            text="▣▣▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply4 = await reply3.edit_text(
+            text="▣▣▣▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply4.edit_text(
+            text="▣▣▣▣▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply5.edit_text(
+            text="▣▣▣▣▣"
+        )
+        await reply6.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.IMAGE_TXT.format(temp.B_NAME),
@@ -927,6 +1095,30 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='help')
         ]]
+        reply1 = await query.message.reply_text(
+            text="▢▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply2 = await reply1.edit_text(
+            text="▣▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply2.edit_text(
+            text="▣▣▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply4 = await reply3.edit_text(
+            text="▣▣▣▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply4.edit_text(
+            text="▣▣▣▣▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply5.edit_text(
+            text="▣▣▣▣▣"
+        )
+        await reply6.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.WHOIS_TXT,
@@ -937,6 +1129,30 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='help')
         ]]
+        reply1 = await query.message.reply_text(
+            text="▢▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply2 = await reply1.edit_text(
+            text="▣▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply2.edit_text(
+            text="▣▣▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply4 = await reply3.edit_text(
+            text="▣▣▣▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply4.edit_text(
+            text="▣▣▣▣▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply5.edit_text(
+            text="▣▣▣▣▣"
+        )
+        await reply6.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.CORONA_TXT,
@@ -948,6 +1164,30 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='help')
         ]]
+        reply1 = await query.message.reply_text(
+            text="▢▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply2 = await reply1.edit_text(
+            text="▣▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply2.edit_text(
+            text="▣▣▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply4 = await reply3.edit_text(
+            text="▣▣▣▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply4.edit_text(
+            text="▣▣▣▣▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply5.edit_text(
+            text="▣▣▣▣▣"
+        )
+        await reply6.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.URLSHORT_TXT,
@@ -959,6 +1199,30 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='help')
         ]]
+        reply1 = await query.message.reply_text(
+            text="▢▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply2 = await reply1.edit_text(
+            text="▣▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply2.edit_text(
+            text="▣▣▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply4 = await reply3.edit_text(
+            text="▣▣▣▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply4.edit_text(
+            text="▣▣▣▣▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply5.edit_text(
+            text="▣▣▣▣▣"
+        )
+        await reply6.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.ZOMBIES_TXT,
@@ -970,6 +1234,30 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='help')
         ]]
+        reply1 = await query.message.reply_text(
+            text="▢▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply2 = await reply1.edit_text(
+            text="▣▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply2.edit_text(
+            text="▣▣▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply4 = await reply3.edit_text(
+            text="▣▣▣▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply4.edit_text(
+            text="▣▣▣▣▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply5.edit_text(
+            text="▣▣▣▣▣"
+        )
+        await reply6.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.FUN_TXT,
@@ -980,6 +1268,30 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='song')
         ]]
+        reply1 = await query.message.reply_text(
+            text="▢▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply2 = await reply1.edit_text(
+            text="▣▢▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply2.edit_text(
+            text="▣▣▢▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply4 = await reply3.edit_text(
+            text="▣▣▣▢▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply4.edit_text(
+            text="▣▣▣▣▢"
+        )
+        await asyncio.sleep(0.3)
+        reply3 = await reply5.edit_text(
+            text="▣▣▣▣▣"
+        )
+        await reply6.delete()
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.VIDEO_TXT,
