@@ -49,7 +49,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA')
         ]]         
-        reply_markup = InlineKeyboardMarkup(btn)        
+        reply_markup = InlineKeyboardMarkup(button)        
         await message.reply_sticker("CAACAgUAAxkBAAEFXjpi3UkE0ZhynSwLX09m3hbV8mT3_QACagQAAuW0-FcThm6lMMZRtikE")        
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_photo(
@@ -94,7 +94,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA')
         ]]         
-        reply_markup = InlineKeyboardMarkup(btn)        
+        reply_markup = InlineKeyboardMarkup(button)        
         await message.reply_sticker("CAACAgUAAxkBAAEFXjpi3UkE0ZhynSwLX09m3hbV8mT3_QACagQAAuW0-FcThm6lMMZRtikE")
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
