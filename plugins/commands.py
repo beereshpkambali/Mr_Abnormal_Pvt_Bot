@@ -50,9 +50,9 @@ async def start(client, message):
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA')
         ]]        
         reply_markup = InlineKeyboardMarkup(buttons)        
-        await message.reply chat_action("Typing")
-        await message.reply_sticker("CAACAgUAAxkBAAEFXjpi3UkE0ZhynSwLX09m3hbV8mT3_QACagQAAuW0-FcThm6lMMZRtikE")
-        await asyncio.sleep(1)
+        await message.reply_chat_action("Typing")
+        m=await message.reply_sticker("CAACAgUAAxkBAAEFXjpi3UkE0ZhynSwLX09m3hbV8mT3_QACagQAAuW0-FcThm6lMMZRtikE")
+        await asyncio.sleep(1) 
         await m.delete()
         await message.reply_photo(
             photo=random.choice(PICS),
@@ -97,9 +97,9 @@ async def start(client, message):
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        await message.reply chat_action("Typing")
-        await message.reply_sticker("CAACAgUAAxkBAAEFXjpi3UkE0ZhynSwLX09m3hbV8mT3_QACagQAAuW0-FcThm6lMMZRtikE")
-        await asyncio.sleep(1)
+        await message.reply_chat_action("Typing")
+        m=await message.reply_sticker("CAACAgUAAxkBAAEFXjpi3UkE0ZhynSwLX09m3hbV8mT3_QACagQAAuW0-FcThm6lMMZRtikE")
+        await asyncio.sleep(1) 
         await m.delete()
         await message.reply_photo(
             photo=random.choice(PICS),
