@@ -7,12 +7,12 @@ from utils import broadcast_messages
 import asyncio
         
 @Client.on_message(filters.command("broadcast") & filters.user(ADMINS) & filters.reply)
-# https://t.me/GetTGLink/4178
+# https://t.me/New_movies_download12
 async def verupikkals(bot, message):
     users = await db.get_all_users()
     b_msg = message.reply_to_message
     sts = await message.reply_text(
-        text='ഇപ്പൊ എല്ലാവരെയും അറിയിച്ചേക്കാം...😁...'
+        text='ಈಗಲೇ ಎಲ್ಲರಿಗೂ ತಿಳಿಸಬಹುದು...😁...'
     )
     start_time = time.time()
     total_users = await db.total_users_count()
