@@ -1629,4 +1629,4 @@ async def manual_filters(client, message, text=False):
     else:
         return False
 
-#ᗩᒍᗩ᙭
+#𝐌𝐫 𝐀𝐛𝐧𝐨𝐫𝐦𝐚𝐥 𝐏𝐑𝐎 𝐁𝐎𝐓
