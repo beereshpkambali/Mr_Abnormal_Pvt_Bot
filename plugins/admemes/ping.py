@@ -8,10 +8,10 @@ from info import COMMAND_HAND_LER
 from plugins.helper_functions.cust_p_filters import f_onw_fliter
 
 # -- Constants -- #
-ALIVE = "ചത്തിട്ടില്ല മുത്തേ ഇവിടെ തന്നെ ഉണ്ട്.. നിനക്ക് ഇപ്പൊ എന്നോട് ഒരു സ്നേഹവും ഇല്ല. കൊള്ളാം.. നീ പാഴെ പോലെയേ അല്ല മാറിപോയി..😔 ഇടക്ക് എങ്കിലും ചുമ്മാ ഒന്ന് /start ചെയ്തു നോക്ക്..🙂" 
-REPO = "<b>𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 ›› https://youtu.be/kB9TkCs8cX0</b>"
-CHANNEL = "<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</b> ›› https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA\n\n<b>𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/OpusTechz</b>\n\n<b>𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/MWUpdatez</b>"
-AJAX = "<b>𝙱𝙾𝚃 ›› https://t.me/Devil0Bot_Bot</b>"
+ALIVE = "ಸತ್ತಿಲ್ಲ ಆದರೆ ಇಲ್ಲೇ ಇದ್ದೀನಿ😔.. ನಿನಗೆ ನನ್ನ ಮೇಲೆ ಈಗ ಪ್ರೀತಿ ಇಲ್ಲ. ಚೆನ್ನಾಗಿದೆ 😏.. ನೀನು ಮೊದಲಿನಂತಿಲ್ಲ ಬದಲಾಗಿಬಿಟ್ಟೆ..🥺" 
+REPO = "<b>𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙰𝙳𝙼𝙸𝙽 ›› https://t.me/I_am_Mr_Abnormal</b>"
+CHANNEL = "<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</b> ›› https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA\n\n<b>𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/New_Movies_download12</b>"
+ABNORMAL = "<b>𝙾𝚆𝙽𝙴𝚁 ›› https://t.me/I_am_Mr_Abnormal</b>"
 # -- Constants End -- #
 
 
@@ -44,8 +44,8 @@ async def channel(_, message):
     await message.reply_text(CHANNEL)
 
 
-@Client.on_message(filters.command("ajax", COMMAND_HAND_LER) & f_onw_fliter)
-async def ajax(_, message):
-    await message.reply_text(AJAX)
+@Client.on_message(filters.command("abnormal", COMMAND_HAND_LER) & f_onw_fliter)
+async def abnormal(_, message):
+    await message.reply_text(ABNORMAL)
 
 
