@@ -473,7 +473,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     caption=f_caption,
                     protect_content=True if ident == "filep" else False 
                 )
-                await query.answer('Check PM, I have sent files in pm. \n \n(ನಿನ್ನ ವೈಯಕ್ತಿಕ ಖಾತೆಗೆ ಮೂವಿಯನ್ನು ಕಳುಹಿಸಿದ್ದೇನೆ, ನೋಡಿ)', show_alert=True)
+                await query.answer('Check PM, I have sent files in pm. \n \n(ಲೇ ತಮ್ಮಾ.. ನಿನ್ನ Personal Messageಗೆ ಮೂವಿನ ಕಳೀಸೇನಿ, ನೋಡು)', show_alert=True)
         except UserIsBlocked:
             await query.answer('You Are Blocked to use me', show_alert=True)
         except PeerIdInvalid:
