@@ -86,7 +86,7 @@ async def fil_mod(client, message):
       except: 
          return await message.reply("**𝙸𝙽𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴 𝙲𝙾𝙼𝙼𝙰𝙽𝙳...**")
       
-      m = await message.reply("**𝚂𝙴𝚃𝚃𝙸𝙽𝙶.../**")
+      m = await message.reply("**𝚂𝙴𝚃𝚃𝙸𝙽𝙶...**")
 
       if args in mode_on:
           FILTER_MODE[str(message.chat.id)] = "True" 
@@ -245,7 +245,7 @@ async def advantage_spoll_choker(bot, query):
             k = (movie, files, offset, total_results)
             await auto_filter(bot, query, k)
         else:
-            k = await query.message.edit('𝚃𝙷𝙸𝚂 𝙼𝙾𝚅𝙸𝙴 I𝚂 𝙽𝙾𝚃 𝚈𝙴𝚃 𝚁𝙴𝙻𝙴𝙰𝚂𝙴𝙳 𝙾𝚁 𝙰𝙳𝙳𝙴𝙳 𝚃𝙾 𝙳𝙰𝚃𝚂𝙱𝙰𝚂𝙴 💌')
+            k = await query.message.edit('𝚃𝙷𝙸𝚂 𝙼𝙾𝚅𝙸𝙴 I𝚂 𝙽𝙾𝚃 𝚈𝙴𝚃 𝚁𝙴𝙻𝙴𝙰𝚂𝙴𝙳 𝙾𝚁 𝙰𝙳𝙳𝙴𝙳 𝚃𝙾 𝙳𝙰𝚃𝚂𝙱𝙰𝚂𝙴 💌 \n \nಈ ಮೂವಿ ನನ್ನ Database ಅಲ್ಲಿ ಇಲ್ಲಲೇ ಪಾ')
             await asyncio.sleep(10)
             await k.delete()
 
@@ -304,7 +304,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 except:
                     pass
             else:
-                await query.answer("Buddy Don't Touch Others Property 😁", show_alert=True)
+                await query.answer("Buddy Don't Touch Others Property 😁 \n \nಪರರ ವಸ್ತು ಪಾಷಾಣಕ್ಕೆ ಸಮಾನ ಮುಟ್ಟಬೇಡ 😁", show_alert=True)
     elif "groupcb" in query.data:
         await query.answer()
 
