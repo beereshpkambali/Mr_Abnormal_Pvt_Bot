@@ -8,7 +8,7 @@
 </h1>
 
 <a href="https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA">
-  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
+  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="200">
 
 
 [![Stars](https://img.shields.io/github/stars/beereshpkambali/bpk2-extra-features-?style=flat-square&color=orange)](https://github.com/beereshpkambali/bpk2-extra-features-/stargazers)
