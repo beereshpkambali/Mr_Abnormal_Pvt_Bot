@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=C0C0C0&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Mr+Abnormal+PRO+BOT+%F0%9F%91%8B%F0%9F%8F%BB;it's+one+of+the+Successful+running+Repo+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Give+me+some+idea+to+improve+%F0%9F%93%88;Please+Support+Subscribe+and+Follow+%E2%9A%99%EF%B8%8F;Thanks+for+your+visit+&#128578+..." alt="Mr Abnormal" width="650" height="55">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=BBC2CC&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Mr+Abnormal+PRO+BOT+%F0%9F%91%8B%F0%9F%8F%BB;it's+one+of+the+Successful+running+Repo+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Give+me+some+idea+to+improve+%F0%9F%93%88;Please+Support+Subscribe+and+Follow+%E2%9A%99%EF%B8%8F;Thanks+for+your+visit+&#128578+..." alt="Mr Abnormal" width="650" height="55">
 
 <p align="center">
   <img src="https://telegra.ph/file/6f4e405fa5955e3af8860.jpg" alt="bpk2-extra-features-Logo">
