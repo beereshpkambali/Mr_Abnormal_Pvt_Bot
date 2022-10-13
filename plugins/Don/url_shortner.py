@@ -54,14 +54,14 @@ async def inline_short(bot, update):
 async def short(link):
     shorten_urls = "**--Shorted URLs--**\n"
     
-      Shareus.in shorten
+      Shareus.io shorten
     if SHAREUS_API:
         try:
             s = Shortener(api_key=SHAREUS_API)
             url = s.shareus.short(link)
-            shorten_urls += f"\n**Shareus.in :-** {url}"
+            shorten_urls += f"\n**Shareus.io :-** {url}"
         except Exception as error:
-            print(f"Shareus.in error :- {error}")
+            print(f"Shareus.io error :- {error}")
 
     # Bit.ly shorten
     if BITLY_API:
