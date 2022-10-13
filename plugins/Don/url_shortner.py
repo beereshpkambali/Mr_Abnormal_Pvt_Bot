@@ -58,9 +58,10 @@ async def short(link):
     try:
         api_url = "https://api.shareus.in/shortLink?token=3Wcf46p9ocfYZXWfcVY0buc2w4H2&format=json&link=mylink.com"
         url = s.shareus.short(link)
-            shorten_urls += f"\n**Shareus.in :-** {url}"
-        except Exception as error:
+        shorten_urls += f"\n**Shareus.in :-** {url}"
+     except Exception as error:
             print(f"Shareus.in error :- {error}")
+
     # Shareus.in shorten
     if SHAREUS_API:
         try:
