@@ -54,7 +54,7 @@ async def inline_short(bot, update):
 async def short(link):
     shorten_urls = "**--Shorted URLs--**\n"
     
-    # Shareus.in shorten
+    Shareus.in shorten
     if SHAREUS_API:
         try:
             s = Shortener(api_key=SHAREUS_API)
