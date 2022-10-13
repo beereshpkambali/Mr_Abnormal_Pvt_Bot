@@ -5,6 +5,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InlineQue
 from pyrogram.handlers import MessageHandler
 from pyshorteners import Shortener
 
+SHAREUS_API = os.environ.get("SHAREUS_API", "3Wcf46p9ocfYZXWfcVY0buc2w4H2")
 BITLY_API = os.environ.get("BITLY_API", "8df1df8c23f719e5cf97788cc2d40321ea30092b")
 CUTTLY_API = os.environ.get("CUTTLY_API", "f64dffbde033b6c307387dd50b7c76e505f1c")
 SHORTCM_API = os.environ.get("SHORTCM_API", "pk_...NIZv")
@@ -53,6 +54,15 @@ async def inline_short(bot, update):
 async def short(link):
     shorten_urls = "**--Shorted URLs--**\n"
     
+    # Shareus.in shorten
+    if SHAREUS_API:
+        try:
+            s = Shortener(api_key=SHAREUS_API)
+            url = s.shareus.short(link)
+            shorten_urls += f"\n**Shareus.in :-** {url}"
+        except Exception as error:
+            print(f"Shareus.in error :- {error}")
+
     # Bit.ly shorten
     if BITLY_API:
         try:
