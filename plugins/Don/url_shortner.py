@@ -54,6 +54,18 @@ async def inline_short(bot, update):
 async def short(link):
     shorten_urls = "**--Shorted URLs--**\n"
     
+    # Shareus.io shorten
+    try:
+        api_url = "https://shareus.io/pub/tools.html"
+        params = {'api': SHAREUS_API, 'url': link}
+        async with aiohttp.ClientSession() as session:
+            async with session.get(api_url, params=params, raise_for_status=True) as response:
+                data = await response.json()
+                url = data["shortenedUrl"]
+                shorten_urls += f"\n**shareus.io :-** {url}"
+    except Exception as error:
+        print(f"shareus.io error :- {error}")
+
     # Shareus.in shorten
     if SHAREUS_API:
         try:
