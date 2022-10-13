@@ -57,15 +57,10 @@ async def short(link):
     # Shareus.in shorten
     try:
         api_url = "https://api.shareus.in/shortLink?token=3Wcf46p9ocfYZXWfcVY0buc2w4H2&format=json&link=mylink.com"
-        params = {'api': SHAREUS_API, 'url': link}
-        async with aiohttp.ClientSession() as session:
-            async with session.get(api_url, params=params, raise_for_status=True) as response:
-                data = await response.json()
-                url = data["shortenedUrl"]
-                shorten_urls += f"\n**shareus.in :-** {url}"
-    except Exception as error:
-        print(f"shareus.io error :- {error}")
-
+        url = s.shareus.short(link)
+            shorten_urls += f"\n**Shareus.in :-** {url}"
+        except Exception as error:
+            print(f"Shareus.in error :- {error}")
     # Shareus.in shorten
     if SHAREUS_API:
         try:
