@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/beereshpkambali/bpk2-extra-features-.git /Abnormal
+  git clone https://github.com/beereshpkambali/Mr_Abnormal_Pvt_Bot.git /Abnormal
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Abnormal
