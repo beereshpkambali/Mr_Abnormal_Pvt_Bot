@@ -15,7 +15,7 @@ def is_enabled(value, default):
     else:
         return default
 
-class evamaria(Client):
+class Mr_Abnormal(Client):
     filterstore: Dict[str, Dict[str, str]] = defaultdict(dict)
     warndatastore: Dict[
         str, Dict[str, Union[str, int, List[str]]]
@@ -79,7 +79,7 @@ DOWNLOAD_LOCATION = environ.get("DOWNLOAD_LOCATION", "./DOWNLOADS/AudioBoT/")
 
 # Others
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'TeamEvamaria')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Mr_Abnormal')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "False")), False)
