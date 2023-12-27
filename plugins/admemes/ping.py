@@ -10,8 +10,8 @@ from plugins.helper_functions.cust_p_filters import f_onw_fliter
 # -- Constants -- #
 ALIVE = "ಸತ್ತಿಲ್ಲ 🥲😔 ಇಲ್ಲೇ ಇದ್ದೀನಿ😪.. ನಿನಗೆ ನನ್ನ ಮೇಲೆ ಮೊದಲಿನ ತರ ಪ್ರೀತಿ❤️ ಇಲ್ಲ😏. ಚೆನ್ನಾಗಿದೆ 😏.. ನೀನು ಮೊದಲಿನಂತಿಲ್ಲ ನೀನು ಬದಲಾಗೇ ಬಿಟ್ಟೇ..🥺" 
 REPO = "<b>𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙰𝙳𝙼𝙸𝙽 𝙵𝙾𝚁 𝚁𝙴𝙿𝙾 ›› https://t.me/I_am_Mr_Abnormal</b>"
-GROUP = "<b>𝙼𝚈 𝙽𝙰𝚃𝙸𝚅𝙴 𝙶𝚁𝙾𝚄𝙿 ›› https://t.me/+M6GjlZxHrIwyYzI1</b>"
-CHANNEL = "<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</b> ›› https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA\n\n<b>𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/New_Movies_download12</b>"
+GROUP = "<b>𝙼𝚈 𝙽𝙰𝚃𝙸𝚅𝙴 𝙶𝚁𝙾𝚄𝙿 ›› https://t.me/+hHun54O4V0U2YzE1</b>"
+CHANNEL = "<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</b> ›› https://youtube.com/@Ranibennur_fighting_sheeps\n\n<b>𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› t.me/About_Mr_Abnormal</b>"
 ABNORMAL = "<b>𝙾𝚆𝙽𝙴𝚁 ›› https://t.me/I_am_Mr_Abnormal</b>"
 # -- Constants End -- #
 
