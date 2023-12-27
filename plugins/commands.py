@@ -41,13 +41,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/+M6GjlZxHrIwyYzI1'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/New_movies_download12')
+            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/+hHun54O4V0U2YzE1'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/About_Mr_Abnormal')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/@Ranibennur_fighting_sheeps')
         ]]        
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_chat_action("Typing")
@@ -88,13 +88,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/New_movies_download12'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/New_movies_download12')
+            InlineKeyboardButton('💠 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌 💠', url='https://www.instagram.com/ranibennur_fighting_sheep'),
+            InlineKeyboardButton('💠 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💠', url='https://t.me/About_Mr_Abnormal')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/@Ranibennur_fighting_sheeps')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action("Typing")
@@ -247,7 +247,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ',url='youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ',url='https://youtube.com/@Ranibennur_fighting_sheeps') ] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     
