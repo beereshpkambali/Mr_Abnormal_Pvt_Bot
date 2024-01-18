@@ -1,5 +1,5 @@
-git+https://github.com/subinps/pyrogram@inline-m
-git+https://github.com/Joelkb/cinemagoer
+
+git+https://github.com/TGExplore/pyrogram.git
 tgcrypto
 pymongo[srv]==3.11.4
 motor==2.4.0
