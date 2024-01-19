@@ -1,7 +1,7 @@
 pyrogram==2.0.106
 pyrofork==2.2.10
 tgcrypto
-pymongo[srv]==4.4.1
+pymongo[srv]==3.11.4
 motor==2.4.0
 marshmallow==3.12.2
 python-telegram-bot==11.1.0
