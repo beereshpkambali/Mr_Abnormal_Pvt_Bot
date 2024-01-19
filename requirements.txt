@@ -1,4 +1,3 @@
-git+https://github.com/TGExplore/pyrogram.git
 pyrogram==2.0.106
 pyrofork==2.2.10
 tgcrypto
