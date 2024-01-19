@@ -49,8 +49,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/@Ranibennur_fighting_sheeps')
         ]]        
-        reply_markup = InlineKeyboardMarkup(buttons)        
-        await message.reply_chat_action(chat_id, enums.ChatAction.TYPING)
+        reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgUAAxkBAAEB8sljNuMryAiCA64Kfc2uZqdP7lRbdAAC7QUAAsP60VeBohDSL6pQZx4E")
         await asyncio.sleep(1) 
         await m.delete()
